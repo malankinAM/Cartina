@@ -1,3 +1,3 @@
 # Cartina
 
-## Мой проект в работе[Посмотрите сами](https://fashion-shop-fb1de.web.app/)
+## Мой проект в работе[Посмотрите сами](https://malankinam.github.io/Cartina/)
